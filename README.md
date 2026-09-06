@@ -13,4 +13,4 @@ Mobile-first India EV research dashboard.
 - Responsive mobile/tablet/desktop UI
 
 ## Important
-The generated dataset is a structured starter/indexing layer. State prices and vehicle specifications can change by variant, date, insurance, incentives and dealer quote. Verify exact values against manufacturer/dealer sources before purchase.
+The generated dataset is a structured starter/indexing layer. State prices and vehicle specifications can change by variant, date, insurance, incentives and dealer quote. Verify exact values again before purchase decisions.
